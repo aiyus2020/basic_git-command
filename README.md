@@ -47,6 +47,27 @@ git push origin add-contact-info
 ```
 ![Git Push](./img/jerry%20push.png)
 
+## Tom Branch
+- tom request to merge his branch
+![tom branch](./img/tom%20merdge.png)
+ - tom branch merdged
+ ![tom](./img/tom%20merge.png)
+
+ ## jerry Branch
+
+ - jerry conflict
+ ![jerry](./img/jerry%20conflict.png)
+
+ - jerry conflict resolved
+ ![jerry](./img/jerry%20conflict%20resolved.png)
+
+ - jerry request merge
+
+ ![jerry](./img/jerry%20merdge%20request.png)
+
+ - jerry branch merge
+ ![jerry](./img/jerry%20merge.png)
+ 
 ## Best Practices
 - Always pull the latest changes before starting work.
 - Use clear and descriptive commit messages.
